@@ -1,7 +1,10 @@
 package newmanuevers;
 
+import org.springframework.stereotype.Component;
+
 import java.util.Random;
 
+@Component("generator")
 public class NumberGenerator implements INumberGenerator {
 
     // == fields ==

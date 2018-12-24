@@ -6,6 +6,7 @@ import org.springframework.context.ConfigurableApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 
+
 public class Main {
 
     private static final Logger log = LoggerFactory.getLogger(Main.class);
@@ -18,8 +19,8 @@ public class Main {
         ConfigurableApplicationContext context = new ClassPathXmlApplicationContext(CONFIG_LOCATION);
 
         //get number generator bean from context (container)
-        INumberGenerator numberGenerator = context.getBean("numberGenerator", INumberGenerator.class);
-
+        //INumberGenerator numberGenerator = context.getBean("numberGenerator", INumberGenerator.class);
+        INumberGenerator numberGenerator = context.getBean(INumberGenerator.class);
         // Call method next to get a random number
         int number = numberGenerator.next();
 
@@ -30,7 +31,7 @@ public class Main {
         IGame game = context.getBean(IGame.class);
 
         // call the reset method
-        game.reset();
+        //game.reset();
 
         // close context
         context.close();

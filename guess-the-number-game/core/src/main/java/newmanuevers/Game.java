@@ -3,13 +3,20 @@ package newmanuevers;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
+import javax.annotation.PostConstruct;
+import javax.annotation.PreDestroy;
+
+@Component
 public class Game  implements IGame {
 
     // == constants ==
     private static final Logger _log = LoggerFactory.getLogger(Game.class);
 
     // == fields ==
+    @Autowired
     private INumberGenerator _numberGenerator;
     private int _guessCont = 10;
     private int _number;
@@ -26,12 +33,8 @@ public class Game  implements IGame {
     }
     */
 
-    // == public methods ==
-    public void setNumberGenerator(NumberGenerator numberGenerator){
-        this._numberGenerator = numberGenerator;
-    }
-
-
+    // == init ==
+    @PostConstruct
     @Override
     public void reset() {
         _smallest = 0;
@@ -41,6 +44,19 @@ public class Game  implements IGame {
         _number = _numberGenerator.next();
         _log.debug("Reset:the number is {}", _number);
     }
+
+    @PreDestroy
+    public void preDestroy(){
+    _log.info("in Game preDestroy()");
+    }
+
+
+    // == public methods ==
+    /*
+    public void setNumberGenerator(NumberGenerator numberGenerator){
+        this._numberGenerator = numberGenerator;
+    }
+     */
 
 
     @Override
