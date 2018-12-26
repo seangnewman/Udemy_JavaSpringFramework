@@ -1,5 +1,7 @@
+newmanuevers/IMessageGenerator.class
 newmanuevers/NumberGenerator.class
-newmanuevers/Main.class
+newmanuevers/MessageGenerator.class
+newmanuevers/AppConfig.class
 newmanuevers/INumberGenerator.class
 newmanuevers/IGame.class
 newmanuevers/Game.class

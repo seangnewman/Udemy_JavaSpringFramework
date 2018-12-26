@@ -4,12 +4,11 @@ package newmanuevers;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
 
-@Component
+
 public class Game  implements IGame {
 
     // == constants ==
@@ -97,7 +96,7 @@ public class Game  implements IGame {
 
         if(_validNumberRange){
             if(_guess > _number){
-                _biggest = _guess = 1;
+                _biggest = _guess - 1;
             }
 
             if(_guess < _number){
