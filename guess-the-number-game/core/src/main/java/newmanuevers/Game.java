@@ -17,10 +17,20 @@ public class Game  implements IGame {
     // == fields ==
     @Autowired
     private INumberGenerator _numberGenerator;
-    private int _guessCont = 10;
+
+    @Autowired
+    @GuessCount
+    private int _guessCount;
+
+    @Autowired
+    @MinNumber
+    private int _minNumber;
+
+
     private int _number;
     private int _guess;
     private int _smallest;
+
     private int _biggest;
     private int _remainingGuesses;
     private boolean _validNumberRange = true;
@@ -36,9 +46,9 @@ public class Game  implements IGame {
     @PostConstruct
     @Override
     public void reset() {
-        _smallest = 0;
+        _smallest = _minNumber;
         _guess = 0;
-        _remainingGuesses = _guessCont;
+        _remainingGuesses = _guessCount;
         _biggest = _numberGenerator.getMaxNumber();
         _number = _numberGenerator.next();
         _log.debug("Reset:the number is {}", _number);
@@ -88,6 +98,10 @@ public class Game  implements IGame {
         return _remainingGuesses;
     }
 
+    @Override
+    public int getGuessCount() {
+        return _guessCount;
+    }
 
     @Override
     public void check() {

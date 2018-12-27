@@ -1,6 +1,7 @@
 package newmanuevers.console;
 
 import newmanuevers.*;
+import newmanuevers.config.AppConfig;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.context.ConfigurableApplicationContext;

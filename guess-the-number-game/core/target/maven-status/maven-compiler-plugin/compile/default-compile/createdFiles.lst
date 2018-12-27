@@ -1,7 +1,11 @@
-newmanuevers/IMessageGenerator.class
 newmanuevers/NumberGenerator.class
+newmanuevers/GuessCount.class
+newmanuevers/config/GameConfig.class
+newmanuevers/MaxNumber.class
+newmanuevers/config/AppConfig.class
+newmanuevers/IMessageGenerator.class
+newmanuevers/MinNumber.class
 newmanuevers/MessageGenerator.class
-newmanuevers/AppConfig.class
 newmanuevers/INumberGenerator.class
 newmanuevers/IGame.class
 newmanuevers/Game.class

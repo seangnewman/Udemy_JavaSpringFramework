@@ -1,7 +1,11 @@
+/home/sean/repos/Idea/guess-the-number-game/core/src/main/java/newmanuevers/GuessCount.java
 /home/sean/repos/Idea/guess-the-number-game/core/src/main/java/newmanuevers/IGame.java
 /home/sean/repos/Idea/guess-the-number-game/core/src/main/java/newmanuevers/INumberGenerator.java
-/home/sean/repos/Idea/guess-the-number-game/core/src/main/java/newmanuevers/AppConfig.java
+/home/sean/repos/Idea/guess-the-number-game/core/src/main/java/newmanuevers/config/AppConfig.java
+/home/sean/repos/Idea/guess-the-number-game/core/src/main/java/newmanuevers/MaxNumber.java
 /home/sean/repos/Idea/guess-the-number-game/core/src/main/java/newmanuevers/NumberGenerator.java
 /home/sean/repos/Idea/guess-the-number-game/core/src/main/java/newmanuevers/MessageGenerator.java
 /home/sean/repos/Idea/guess-the-number-game/core/src/main/java/newmanuevers/Game.java
 /home/sean/repos/Idea/guess-the-number-game/core/src/main/java/newmanuevers/IMessageGenerator.java
+/home/sean/repos/Idea/guess-the-number-game/core/src/main/java/newmanuevers/config/GameConfig.java
+/home/sean/repos/Idea/guess-the-number-game/core/src/main/java/newmanuevers/MinNumber.java
