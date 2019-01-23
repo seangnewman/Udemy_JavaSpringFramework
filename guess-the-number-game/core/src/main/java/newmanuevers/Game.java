@@ -4,27 +4,25 @@ package newmanuevers;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
 
-
+@Component
 public class Game  implements IGame {
 
     // == constants ==
     private static final Logger _log = LoggerFactory.getLogger(Game.class);
 
     // == fields ==
-    @Autowired
-    private INumberGenerator _numberGenerator;
+    private final INumberGenerator _numberGenerator;
 
-    @Autowired
-    @GuessCount
-    private int _guessCount;
+    private final int _guessCount;
 
-    @Autowired
-    @MinNumber
-    private int _minNumber;
+    //@Autowired
+    //@MinNumber
+    //private final int _minNumber;
 
 
     private int _number;
@@ -36,18 +34,18 @@ public class Game  implements IGame {
     private boolean _validNumberRange = true;
 
     // == constructor ==
-    /*
-    public Game(INumberGenerator _numberGenerator) {
+    @Autowired
+    public Game(INumberGenerator _numberGenerator, @GuessCount int _guessCount) {
         this._numberGenerator = _numberGenerator;
+        this._guessCount = _guessCount;
     }
-    */
 
     // == init ==
     @PostConstruct
     @Override
     public void reset() {
-        _smallest = _minNumber;
-        _guess = 0;
+        _smallest = _numberGenerator.getMinNumber();
+        _guess = _numberGenerator.getMinNumber();
         _remainingGuesses = _guessCount;
         _biggest = _numberGenerator.getMaxNumber();
         _number = _numberGenerator.next();

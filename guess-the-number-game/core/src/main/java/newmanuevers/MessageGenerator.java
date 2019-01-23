@@ -2,20 +2,23 @@ package newmanuevers;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
 import javax.annotation.PostConstruct;
 
+@Component
 public class MessageGenerator implements IMessageGenerator{
 
     // == constants ==
     private static final Logger log = LoggerFactory.getLogger(MessageGenerator.class);
 
     // == fields ==
-    @Autowired
-    private Game game;
+    private final Game game;
 
-
+    // == constructor ==
+    public MessageGenerator(Game game) {
+        this.game = game;
+    }
 
     // == init ==
     @PostConstruct

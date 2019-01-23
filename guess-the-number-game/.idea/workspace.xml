@@ -1,36 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/console/src/main/java/newmanuevers/console/ConsoleNumberGuess.java" line="58" mnemonic="8" />
+    <bookmark url="file://$PROJECT_DIR$/console/src/main/java/newmanuevers/console/ConsoleNumberGuess.java" line="61" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd00ce77-194b-4630-be8a-92058d556fac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/newmanuevers/GuessCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/newmanuevers/MaxNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/newmanuevers/MinNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/java/newmanuevers/config/GameConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core/src/main/resources/config/game.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/console/src/main/java/newmanuevers/console/ConsoleNumberGuess.java" beforeDir="false" afterPath="$PROJECT_DIR$/console/src/main/java/newmanuevers/console/ConsoleNumberGuess.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/console/src/main/java/newmanuevers/console/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/console/src/main/java/newmanuevers/console/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/console/target/classes/newmanuevers/console/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/console/target/classes/newmanuevers/console/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/console/target/console-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/console/target/console-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/console/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/console/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/newmanuevers/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/newmanuevers/config/AppConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/src/main/java/newmanuevers/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/newmanuevers/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/newmanuevers/IGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/newmanuevers/IGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/newmanuevers/INumberGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/newmanuevers/INumberGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/src/main/java/newmanuevers/MessageGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/newmanuevers/MessageGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/src/main/java/newmanuevers/NumberGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/newmanuevers/NumberGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/classes/newmanuevers/AppConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/newmanuevers/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/newmanuevers/config/GameConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/newmanuevers/config/GameConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/resources/config/game.properties" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/resources/config/game.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/config/game.properties" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/config/game.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/target/classes/newmanuevers/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/newmanuevers/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/classes/newmanuevers/IGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/newmanuevers/IGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/classes/newmanuevers/INumberGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/newmanuevers/INumberGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/classes/newmanuevers/MessageGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/newmanuevers/MessageGenerator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/core/target/classes/newmanuevers/NumberGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/newmanuevers/NumberGenerator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/core-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/core-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/newmanuevers/config/AppConfig.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -50,40 +38,65 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/NumberGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="220">
+              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/core.iml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/console/src/main/java/newmanuevers/console/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/console/src/main/java/newmanuevers/console/ConsoleNumberGuess.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <marker date="1548213195334" expanded="true" signature="407:426" ph="..." />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/config/GameConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="242">
+              <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/MessageGenerator.java">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-440">
-              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+            <state relative-caret-position="242">
+              <caret line="37" column="62" selection-start-line="37" selection-start-column="62" selection-end-line="37" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/MessageGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/main/resources/config/game.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="66">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -91,7 +104,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/IGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
+            <state relative-caret-position="44">
               <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
             </state>
           </provider>
@@ -109,17 +122,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/INumberGenerator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/MaxNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            <state relative-caret-position="110">
+              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -138,6 +142,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Found</find>
+      <find>identi</find>
+      <find>via</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -156,19 +162,19 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/console/pom.xml" />
         <option value="$PROJECT_DIR$/console/src/test/java/newmanuevers/console/Main.java" />
-        <option value="$PROJECT_DIR$/console/src/main/java/newmanuevers/console/Main.java" />
-        <option value="$PROJECT_DIR$/console/src/main/java/newmanuevers/console/ConsoleNumberGuess.java" />
         <option value="$PROJECT_DIR$/core/src/main/java/newmanuevers/IGame.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/newmanuevers/MessageGenerator.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/newmanuevers/config/AppConfig.java" />
         <option value="$PROJECT_DIR$/core/src/main/java/newmanuevers/MaxNumber.java" />
         <option value="$PROJECT_DIR$/core/src/main/java/newmanuevers/GuessCount.java" />
         <option value="$PROJECT_DIR$/core/src/main/java/newmanuevers/MinNumber.java" />
         <option value="$PROJECT_DIR$/core/src/main/java/newmanuevers/INumberGenerator.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/newmanuevers/NumberGenerator.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/newmanuevers/Game.java" />
-        <option value="$PROJECT_DIR$/core/src/main/java/newmanuevers/config/GameConfig.java" />
         <option value="$PROJECT_DIR$/core/src/main/resources/config/game.properties" />
+        <option value="$PROJECT_DIR$/core/src/main/java/newmanuevers/NumberGenerator.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/newmanuevers/config/AppConfig.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/newmanuevers/config/GameConfig.java" />
+        <option value="$PROJECT_DIR$/console/src/main/java/newmanuevers/console/Main.java" />
+        <option value="$PROJECT_DIR$/console/src/main/java/newmanuevers/console/ConsoleNumberGuess.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/newmanuevers/Game.java" />
+        <option value="$PROJECT_DIR$/core/src/main/java/newmanuevers/MessageGenerator.java" />
       </list>
     </option>
   </component>
@@ -234,7 +240,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -360,10 +365,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545895603787" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548213329730" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -449,7 +455,7 @@
   <component name="ToolWindowManager">
     <frame x="16" y="0" width="1414" height="874" extended-state="4" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28613138" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29051095" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -472,7 +478,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24981844" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.25255474" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25255474" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -524,13 +530,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/resources/beans.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/beans.xml" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.3.RELEASE/spring-beans-5.1.3.RELEASE.jar!/org/springframework/beans/factory/annotation/InjectionMetadata.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -551,27 +551,10 @@
     <entry file="file://$PROJECT_DIR$/guess-the-number-game.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/console/src/main/java/newmanuevers/console/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
           <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/console/src/main/java/newmanuevers/console/ConsoleNumberGuess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-117">
-          <caret line="40" column="38" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
-          <folding>
-            <marker date="1545812763872" expanded="true" signature="470:489" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -589,13 +572,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/GuessCount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -603,9 +579,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/IGame.java">
+    <entry file="file://$PROJECT_DIR$/core/core.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/MaxNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/resources/config/game.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/NumberGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/INumberGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/IGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
           <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
@@ -617,55 +624,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/INumberGenerator.java">
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/config/AppConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="20" />
+        <state relative-caret-position="73">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/MaxNumber.java">
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/config/GameConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
-          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/console/src/main/java/newmanuevers/console/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/console/src/main/java/newmanuevers/console/ConsoleNumberGuess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <marker date="1548213195334" expanded="true" signature="407:426" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="37" column="62" selection-start-line="37" selection-start-column="62" selection-end-line="37" selection-end-column="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/MessageGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-440">
-          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/NumberGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/config/AppConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/core.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/java/newmanuevers/config/GameConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/main/resources/config/game.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        <state relative-caret-position="264">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
